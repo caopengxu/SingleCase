@@ -1,0 +1,2 @@
+# SingleCase
+单例
